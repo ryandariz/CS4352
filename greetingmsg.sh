@@ -24,4 +24,4 @@ then
 fi
 
 rm greetingmsg
-msg >> greetingmsg
+echo "$msg" > "$greetingmsg"
