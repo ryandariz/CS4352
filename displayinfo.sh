@@ -6,10 +6,10 @@ echo "User is `whoami`"
 echo "Current directory `pwd`"
 
 
-echo "Hello $Logname \n" > greetingmsg
+echo "Hello $Logname \n" > displayinfo
 
-echo "Current date is `date` \n" > greetingmsg
+echo "Current date is `date` \n" > displayinfo
 
-echo "User is `whoami` \n" > greetingmsg
+echo "User is `whoami` \n" > displayinfo
 
-echo "Current directory `pwd` \n" > greetingmsg
+echo "Current directory `pwd` \n" > displayinfo
