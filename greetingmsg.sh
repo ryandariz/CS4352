@@ -20,7 +20,7 @@ fi
 
 if [ $temph -gt 20 -a $temph -le 24 ]
 then
-    msg="Hello $LOGNAME"
+    msg="Hello $LOGNAME !"
 fi
 
 rm greetingmsg
