@@ -28,5 +28,4 @@ rm greetingmsg
 
 echo $msg >> greetingmsg
 
-echo $temph >> greetingmsg
 echo $dat >> greetingmsg
