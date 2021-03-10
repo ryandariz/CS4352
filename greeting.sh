@@ -23,3 +23,4 @@ fi
 #echo $temph
 #echo $dat
 echo -e "$msg\nThis is $dat"
+echo $msg >> greeting
