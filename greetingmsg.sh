@@ -24,4 +24,5 @@ then
 fi
 
 rm greetingmsg
+touch greetingmsg
 echo "$msg" > "$greetingmsg"
