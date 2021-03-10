@@ -18,10 +18,6 @@ then
     msg="Good Evening $LOGNAME"
 fi
 
-if [ $temph -gt 20 -a $temph -le 24 ]
-then
-    msg="Hello Ryarmend"
-fi
 
 
 #echo $temph
