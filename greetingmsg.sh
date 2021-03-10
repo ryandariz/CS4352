@@ -25,4 +25,4 @@ fi
 
 rm greetingmsg
 
-echo "msg" > greetingmsg
+echo msg > greetingmsg
