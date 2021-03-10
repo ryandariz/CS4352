@@ -25,4 +25,8 @@ fi
 
 rm greetingmsg
 
+#echo $temph
+#echo $dat
+
+
 echo $msg > greetingmsg
