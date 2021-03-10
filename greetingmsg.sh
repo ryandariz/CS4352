@@ -25,8 +25,8 @@ fi
 
 rm greetingmsg
 
-#echo $temph
-#echo $dat
 
+echo $msg >> greetingmsg
 
-echo $msg > greetingmsg
+echo $temph >> greetingmsg
+echo $dat >> greetingmsg
