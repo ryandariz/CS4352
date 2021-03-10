@@ -24,3 +24,6 @@ fi
 #echo $dat
 echo -e "$msg\nThis is $dat"
 echo $msg >> greeting
+echo $temph >> greeting
+echo $dat >> greeting
+
